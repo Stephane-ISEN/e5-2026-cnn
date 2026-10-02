@@ -14,10 +14,10 @@ Ces deux compétences sont validées par l'épreuve E5.
 Chaque branche représente un ticket d'incident. Il y a 3 branches, donc 3 tickets.
 
 Les tickets sont répartis de la façon suivante : 
-- ticket 1 : 
-- ticket 2 : 
-- ticket 3 :
-- ticket 4 : 
+- ticket 1 : Corto Gayet, Khaoula Mili
+- ticket 2 : Carol Novak, Simon Brouard, Nathalie Bediée
+- ticket 3 : Malgorzata Ryczer-Dumas, Tangi le Cadre, Lucas Henneuse 
+- ticket 4 : Lucie Jouan, Hugo Babin, Mathieu Laronce
 
 Vous trouverez toutes les informations du ticket dans le Readme de la branche.
 
