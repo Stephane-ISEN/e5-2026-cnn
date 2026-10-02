@@ -1,12 +1,17 @@
-# Ticket d'incident 1
+# Ticket d'incident 4
 
 ## Étapes pour reproduire le problème
-1. Lancer l'application.
+1. A la première utilisation, lorsqu'il n'y a aucune prédiction.
+2. Lancer l'application.
+3. Ajouter une image satellite du désert sur la page *Upload image*.
+4. *Envoyer*
+6. Passer sur la page *Voir les prédictions*.
+7. La *Liste des prédictions enregistrées* est vide.
 
 ## Résultat actuel
-La side bar affiche une erreur au lieu d'un bouton de téléchargement.
+Malgré l'ajout d'une première prédiction, la *Liste des prédictions enregistrées* est vide.
 
-![Capture d'écran de l'incident](./ressources/ticket1.png)
+![Capture d'écran de l'incident](./ressources/ticket4.png)
 
 ## Comportement attendu
-La side bar affiche un bouton de téléchargement.
+La *Liste des prédictions enregistrées* doit afficher la première *prédiction*.
