@@ -1,5 +1,5 @@
-# py-traducteur
-Cas pratique sur un traducteur
+# Classification d'Images Satellites
+Cas pratique sur un CNN
 
 ## Cas pratique
 C'est un travail individuel qui est attendu de vous. Chaque apprenant devra présenter un rapport personnel, du code personnel et un dashboard personnel. Lisez bien toutes les consignes avant de commencer.
@@ -8,20 +8,20 @@ C'est un travail individuel qui est attendu de vous. Chaque apprenant devra pré
 Chaque branche représente un ticket d'incident. Il y a 3 branches, donc 3 tickets.
 
 Les tickets sont répartis de la façon suivante : 
-- ticket 1 : Frédéric, Mikaël, Andy, Jérémy, Gwendal
-- ticket 2 : Alexandre, Yann, Youenn, Ibrahim, Laura
-- ticket 3 : Morgan, Pierre-Marie, Thibaut, Yves 
+- ticket 1 : 
+- ticket 2 : 
+- ticket 3 :  
 
-Vous trouverez toutes les informations du ticket dans le Readme.
+Vous trouverez toutes les informations du ticket dans le Readme de la branche.
 
 ## Installation
 Merci de ne rien modifier sur ce dépôt.
 
 1. Faire un fork ou un clone de la branche qui vous intéresse sur votre dépôt GitHub. Créez une branche pour la correction.
 2. Installer Git en local. Récupérer le projet en local.
-3. Lancer d'abord la base de données grâce à Docker Compose.
-4. Créer un environnement virtuel pour l'API, puis installez dans l'environnement virtuel les dépendances à partir du fichier `requirements.txt`. Lancez l'API en exécutant le code Python.
-5. Créer un environnement virtuel pour l'application web, puis installez dans l'environnement virtuel les dépendances à partir du fichier `requirements.txt`. Lancez l'application web grâce aux commandes de Streamlit.
+3. Lancer le Docker Compose pour voir l'appli tourner.
+4. Créer un environnement virtuel local pour le débug de l'API, puis installez dans l'environnement virtuel les dépendances à partir du fichier `requirements.txt`. Lancez l'API en exécutant le code Python.
+5. Créer un environnement virtuel pour le debug de l'application web, puis installez dans l'environnement virtuel les dépendances à partir du fichier `requirements.txt`. Lancez l'application web grâce aux commandes de Streamlit.
 
 ## Travail à réaliser
 Avant de commencer la résolution du ticket, commencez par lire les attendus du rapport, pour pouvoir relever toutes les informations attendues aux bons moments. 
@@ -54,6 +54,7 @@ Le rapport compte entre 2 et 5 pages.
 Ces deux compétences sont validées par l'épreuve E5.
 
 ## Technologies utilisées
-- Le transformer d'Huggingface pour le traducteur
+- CNN???????????????????????????
 - FastAPI pour l'API
 - Streamlit pour l'application web
+- MySQL pour la base de données
