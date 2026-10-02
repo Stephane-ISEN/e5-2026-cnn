@@ -1,12 +1,14 @@
-# Ticket d'incident 1
+# Ticket d'incident 3
 
 ## Étapes pour reproduire le problème
 1. Lancer l'application.
+2. Sélectionner *Voir les prédictions*.
+3. La liste n'affiche que des *prédiction None*.
 
 ## Résultat actuel
-La side bar affiche une erreur au lieu d'un bouton de téléchargement.
+Toutes les *prédictions* sont nommées *none*.
 
-![Capture d'écran de l'incident](./ressources/ticket1.png)
+![Capture d'écran de l'incident](./ressources/ticket3.png)
 
 ## Comportement attendu
-La side bar affiche un bouton de téléchargement.
+Les prédictions doivent être numérotés dans la liste.
