@@ -11,4 +11,4 @@ Toutes les *prédictions* sont nommées *none*.
 ![Capture d'écran de l'incident](./ressources/ticket3.png)
 
 ## Comportement attendu
-Les prédictions doivent être numérotés dans la liste.
+Les prédictions doivent être numérotées dans la liste.
