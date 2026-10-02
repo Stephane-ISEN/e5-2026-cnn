@@ -39,7 +39,6 @@ docker compose up --build -d
 | --- | --- |
 | Client Streamlit | http://localhost:8501 |
 | Documentation API | http://localhost:8081/docs |
-| État API et base | http://localhost:8081/health |
 | Adminer | http://localhost:8080 |
 | MySQL | localhost:3306 |
 
