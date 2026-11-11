@@ -9,6 +9,16 @@ from config import API_UPLOAD_URL, API_PREDICTIONS_URL
 #Importe la fct de récupération vérifiée par les tests unitaires
 from api_client import recuperer_predictions
 
+# Permet de configurer l'affichage des messages de suivi
+import logging 
+
+#Affiche les événements INFO et les erreurs dans les logs du client.
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(name)s : %(message)s",
+
+)
+
 # Titre de l'application
 st.title("🛰️ Application CNN - Classification d'Images Satellites")
 
